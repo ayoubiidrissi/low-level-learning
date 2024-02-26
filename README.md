@@ -72,7 +72,7 @@ Contributions are very welcome! Feel free to message me at <youbiidrissi.abdalla
 - [The Software Foundations Series](https://softwarefoundations.cis.upenn.edu/)
 - [How to Design Programs](https://htdp.org/)
 
-##### Lambda Calculus, Category theory and Functional Programming
+##### Lambda Calculus
 
 - [Lambda-calculus and Categories](https://www.irif.fr/~mellies/mpri-ens.html)
 - [Lecture Notes on the Lambda Calculus by Peter Selinger](https://arxiv.org/pdf/0804.3434.pdf)
@@ -94,6 +94,12 @@ Contributions are very welcome! Feel free to message me at <youbiidrissi.abdalla
   - Expanders and Fast Graph Algorithms - [Webpage](https://sites.google.com/site/thsaranurak/teaching/Expander?authuser=0) and [Lectures](https://www.youtube.com/playlist?list=PLVw32sKsg0Ntcr6mRvPhvY71_xSkFMHHg)
   
 - CSE373 -- Analysis of Algorithms (Fall 2021) by Steven Skiena - [Textbook](https://www3.cs.stonybrook.edu/~skiena/373/videos/) and [Lectures](https://www.youtube.com/playlist?list=PLOtl7M3yp-DXbHTFe_w9zFPXeau28CDao)
+
+
+##### Functional Programming
+
+- CS 3110 Data Structures and Functional Programming (OCaml) - [Webpage](https://cs3110.github.io/textbook/cover.html) and [Lectures](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
+- Functional Programming in Haskell - [Webpage](https://www.cs.nott.ac.uk/~pszgmh/pgp.html) and [Lectures](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)
 
 ### Digital Systems and Computer Architecture
 
@@ -117,6 +123,7 @@ Contributions are very welcome! Feel free to message me at <youbiidrissi.abdalla
 
 - CMU 15-213/15-513/14-513 Introduction to Computer Systems (ICS) - [Website](https://www.cs.cmu.edu/~213/index.html) and [Lectures](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22)
 - MIT 6.172 Performance Engineering of Software Systems, Fall 2018 - [Website](https://ocw.mit.edu/6-172F18) and [Youtube Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
+- ECE 353 Systems Software - [Webpage](https://eyolfson.com/courses/ece353/) and [Lectures](https://www.youtube.com/playlist?list=PLunILarQwxnnfpqfSzQVbj4JWPAn1ByiF)
 
 #### Foundation of Computer Systems: Books
 
@@ -360,6 +367,7 @@ Contributions are very welcome! Feel free to message me at <youbiidrissi.abdalla
 - Introduction to Modern Causal Inference (work in-progress) - [Website](https://alejandroschuler.github.io/mci/)
 - Causal Inference The Mixtape by Scott Cunningham
 - Bayesuvius, a visual dictionary of Bayesian Networks and Causal Inference - [Website](https://qbnets.wordpress.com/2020/11/30/my-free-book-bayesuvius-on-bayesian-networks/), [Book](https://github.com/rrtucci/Bayesuvius/raw/master/main.pdf) and [repo](https://github.com/rrtucci/Bayesuvius)
+- Causal ML Book - [Webpage](https://causalml-book.org/)
 
 ### Causal Inference: Courses
 
