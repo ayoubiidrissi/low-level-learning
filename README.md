@@ -44,6 +44,7 @@ Contributions are very welcome! Feel free to message me at <youbiidrissi.abdalla
 
 #### Theoretical Computer Science and Theory of Computation: Courses
 
+- Foundations of Computer Science Logic, models, and computations - [Website](https://www.enseignement.polytechnique.fr/informatique/INF412/i.php?n=Main.HomePage) and [Lecture Notes](https://www.enseignement.polytechnique.fr/informatique/INF412/uploads/Main/polyinf412english-goodINF412ENGLISH.pdf)
 - MIT 18.404J Theory of Computation, Fall 2020 by Michael Sipser - [Course Website](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) and [Youtube Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
 - Models of Computation by Jeff Erickson - [Lecture Notes](https://jeffe.cs.illinois.edu/teaching/algorithms/models/all-models.pdf)
 - Introduction to Theoretical Computer Science by Boaz Barak - [Lecture Notes](https://files.boazbarak.org/introtcs/lnotes_book.pdf)
@@ -60,46 +61,11 @@ Contributions are very welcome! Feel free to message me at <youbiidrissi.abdalla
 - Structure and Interpretation of Computer Programs by Harold Abelson and Gerald Jay Sussman with Julie Sussman.
 - Once Upon an Algorithm How Stories Explain Computing by Martin Erwig.
 
-#### Topics
+#### Advanced Topics: Formal Methods and Automated Reasoning
 
-##### Computational Logic
-
-- Foundations of Computer Science Logic, models, and computations - [Website](https://www.enseignement.polytechnique.fr/informatique/INF412/i.php?n=Main.HomePage) and [Lecture Notes](https://www.enseignement.polytechnique.fr/informatique/INF412/uploads/Main/polyinf412english-goodINF412ENGLISH.pdf)
-- INF551 – Computational logic - [Website](https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/) and [Lecture Notes](https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf)
-
-##### Software Foundations
-
-- [The Software Foundations Series](https://softwarefoundations.cis.upenn.edu/)
-- [How to Design Programs](https://htdp.org/)
-
-##### Lambda Calculus
-
-- [Lambda-calculus and Categories](https://www.irif.fr/~mellies/mpri-ens.html)
-- [Lecture Notes on the Lambda Calculus by Peter Selinger](https://arxiv.org/pdf/0804.3434.pdf)
-
-##### Formal Methods
-
+- Proof=Program - [Website](https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/) and [Lecture Notes](https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf)
 - [Formal-Methods-Courses](https://github.com/luigiapetre/Formal-Methods-Courses)
 - [Formal Methods of Software Design by Eric Hehner](https://www.cs.toronto.edu/~hehner/FMSD/) and [Textbook](https://www.cs.toronto.edu/~hehner/aPToP/)
-
-##### Design and Analysis of Algorithms
-
-- Jeff Erickson Course: CS 473 Algorithms - [Webpage](https://courses.engr.illinois.edu/cs473/fa2022/), [Lectures](https://mediaspace.illinois.edu/channel/crissywakeup/265961502), [Lecture Notes](https://courses.engr.illinois.edu/cs473/fa2022/lectures.html) and [Textbook](https://jeffe.cs.illinois.edu/teaching/algorithms/)
-- CMU 15-850: Advanced Algorithms, Spring 2023 - [Webpage](https://www.cs.cmu.edu/~15850/) and [Lectures](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2253c58248-7fd4-4f71-8774-af85013a570a%22&page=0&maxResults=50)
-- CMU 15-451/651: Algorithm Design and Analysis - [Webpage](https://www.cs.cmu.edu/~15451-s23/schedule.html)
-- MIT 6.5210/18.415: Advanced Algorithms - [Webapge](https://6.5210.csail.mit.edu/)
-- Advanced Algorithms, ETH Zurich, Fall 2023 - [Webpage](https://people.inf.ethz.ch/~aroeyskoe/AA23)
-- Thatchaphol Saranurak Courses:
-  - EECS 477 Introduction to Algorithms (Winter 2023) - [Webpage](https://sites.google.com/site/thsaranurak/teaching/intro-algo?authuser=0) and [Lectures](https://www.youtube.com/playlist?list=PLVw32sKsg0NuY9-DBVSbPHDa4yWma0BMo)
-  - Expanders and Fast Graph Algorithms - [Webpage](https://sites.google.com/site/thsaranurak/teaching/Expander?authuser=0) and [Lectures](https://www.youtube.com/playlist?list=PLVw32sKsg0Ntcr6mRvPhvY71_xSkFMHHg)
-  
-- CSE373 -- Analysis of Algorithms (Fall 2021) by Steven Skiena - [Textbook](https://www3.cs.stonybrook.edu/~skiena/373/videos/) and [Lectures](https://www.youtube.com/playlist?list=PLOtl7M3yp-DXbHTFe_w9zFPXeau28CDao)
-
-
-##### Functional Programming
-
-- CS 3110 Data Structures and Functional Programming (OCaml) - [Webpage](https://cs3110.github.io/textbook/cover.html) and [Lectures](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
-- Functional Programming in Haskell - [Webpage](https://www.cs.nott.ac.uk/~pszgmh/pgp.html) and [Lectures](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)
 
 ### Digital Systems and Computer Architecture
 
@@ -113,32 +79,119 @@ Contributions are very welcome! Feel free to message me at <youbiidrissi.abdalla
 - Digital Design and Computer Architecture by David Money Harris and Sarah L. Harris
 - introduction to computing systems from bits & gates to C/C++ & beyond by Yale N. Patt and Sanjay J. Patel
 - Digital Systems Principles and Applications by Neal S. Widmer and Gregory L. Moss
-
-### Foundation of Computer Systems
-
-- [Foundations of Computer Science](https://www.teach.cs.toronto.edu/~csc110y/fall/notes/)
-- [Crafting Interpreters by Robert Nystrom](https://craftinginterpreters.com/)
-
-#### Foundation of Computer Systems: Courses
-
-- CMU 15-213/15-513/14-513 Introduction to Computer Systems (ICS) - [Website](https://www.cs.cmu.edu/~213/index.html) and [Lectures](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22)
-- MIT 6.172 Performance Engineering of Software Systems, Fall 2018 - [Website](https://ocw.mit.edu/6-172F18) and [Youtube Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
-- ECE 353 Systems Software - [Webpage](https://eyolfson.com/courses/ece353/) and [Lectures](https://www.youtube.com/playlist?list=PLunILarQwxnnfpqfSzQVbj4JWPAn1ByiF)
-
-#### Foundation of Computer Systems: Books
-
-- Digital Systems Principles and Applications by Neal S. Widmer and Gregory L. Moss
+- [David A. Patterson, John L. Hennessy "Computer Architecture: A Quantitative Approach"](http://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf)
+- [David A. Patterson, John L. Hennessy "Computer Organization and Design ARM Edition"](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20ARM%20edition.pdf)
+- [David A. Patterson, John L. Hennessy "Computer Organization and Design RISC-V Edition"](https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/HandP_RISCV.pdf)
 
 ### Operating Systems
+
+#### Operating Systems: Courses
+
+- ECE 353 by Jon Eyolfson - [Lectures](https://www.youtube.com/playlist?list=PLunILarQwxnnfpqfSzQVbj4JWPAn1ByiF)
+- Write your own Operating System - [Lectures](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
+- CS-342 Operating Systems by Asst. Prof. Dr. İbrahim Körpeoğlu - [Lectures](https://www.youtube.com/playlist?list=PLhwVAYxlh5dsX6aOfVMZXS8MwKwBmwVM6)
+- NOC:Introduction to Operating Systems, IIT Madras by Prof. Chester Rebeiro - [Lectures](https://nptel.ac.in/courses/106106144)
+
+#### Operating Systems: Books
 
 - Operating Systems: Three Easy Pieces - [Website](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - Operating Systems: Principles and Practice by Thomas Anderson and Michael Dahlin.
 - MODERN OPERATING SYSTEMS by ANDREW S. TANENBAUM and HERBERT BOS.
 - Operating Systems: Internals and Design Principles by William Stallings.
+- The Linux Programming Interface by Michael KerrisK.
+- Unix and Linux System Administration Handbook
+- BPF Performance Tools - Linux System and Application Observability by Brendan Gregg
 
-### Database Systems, Distributed Systems and Parallel Computing
+#### Operating Systems: Resources
 
-#### Database Systems
+- [OS Dev Wiki](https://wiki.osdev.org)
+- [Awesome Operating System Stuff](https://github.com/jubalh/awesome-os)
+- [Writing an OS in Rust](https://os.phil-opp.com/)
+
+### Computer Systems Programming
+
+#### Prerequisites
+
+##### The C Programming Language
+
+- [C Programming Language, 2nd Edition 2nd Edition by Brian W. Kernighan (Author), Dennis M. Ritchie](http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf)
+- Introductory C Programming by Jon Eyolfson - [Lectures](https://www.youtube.com/playlist?list=PLunILarQwxnma-0Z_0DZ3nkWKpZN7HGbw)
+- [Beej's Guides](https://beej.us/guide/)
+
+##### Networking
+
+- [Computer Networking: A Top-Down Approach](https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer%20Networking%20_%20A%20Top%20Down%20Approach,%207th,%20converted.pdf)
+- High Performance Browser Networking by Ilya Grigorik
+- [Beej's Guides](https://beej.us/guide/)
+- [A collection of awesome networking courses, books, tutorials and other resources](https://github.com/facyber/awesome-networking)
+
+#### Foundation of Computer Systems: Courses
+
+- CMU 15-213/15-513/14-513 Introduction to Computer Systems (ICS) - [Website](https://www.cs.cmu.edu/~213/index.html) and [Lectures](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22)
+- MIT 6.172 Performance Engineering of Software Systems, Fall 2018 - [Website](https://ocw.mit.edu/6-172F18) and [Youtube Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
+
+#### Foundation of Computer Systems: Books
+
+- Dive Into Systems - A Gentle Introduction to Computer Systems
+- Computer Systems A Programmer’s Perspective
+
+### Compiler Design
+
+#### Compiler Design: Courses
+
+- KAIST CS420: Compiler Design - [Lectures](https://www.youtube.com/playlist?list=PL5aMzERQ_OZ8RWqn-XiZLXm1IJuaQbXp0) and [Github Repo](https://github.com/kaist-cp/cs420)
+- Compiler Design by Sorav Bansal - IIT Delhi - [Lectures](https://www.youtube.com/playlist?list=PLf3ZkSCyj1tf3rPAkOKY5hUzDrDoekAc7)
+
+#### Compiler Design: Books
+
+- More of an applied approach: 
+	- Crafting Interpreters - [Website](https://craftinginterpreters.com/)
+	- Writing A Compiler In Go by Thorsten Ball	- Writing an Interpreter in Go by Thorsten Ball	- Essentials of Compilation An Incremental Approach in Python by Jeremy G. Siek	- Essentials of Compilation An Incremental Approach in Racket by Jeremy G. Siek
+
+- Basics:	- Basics of Compiler Design
+	- Introduction to Compilers and Language Design
+
+- Deep dive:
+	- Engineering a Compiler	- Compilers Principles, Techniques and Tools	- Writing compilers and interpreters
+
+#### Compiler Design: Resources
+
+- [Resources for Amateur Compiler Writers](https://c9x.me/compile/bib/)
+- [Curated list of awesome resources on Compilers, Interpreters and Runtimes](https://github.com/aalhour/awesome-compilers)
+- [Hibiku - An Educational Interpreter and Compiler in C](https://www.youtube.com/playlist?list=PLzaJkF8lpTDYGrfOK_rht0rYTXTUCWVG_)
+
+### Software Foundations
+
+- [The Software Foundations Series](https://softwarefoundations.cis.upenn.edu/)
+- [How to Design Programs](https://htdp.org/)
+- [The Fuzzing Book Tools and Techniques for Generating Software Tests](https://www.fuzzingbook.org/)
+
+### Design and Analysis of Algorithms
+
+- Jeff Erickson Course: CS 473 Algorithms - [Webpage](https://courses.engr.illinois.edu/cs473/fa2022/), [Lectures](https://mediaspace.illinois.edu/channel/crissywakeup/265961502), [Lecture Notes](https://courses.engr.illinois.edu/cs473/fa2022/lectures.html) and [Textbook](https://jeffe.cs.illinois.edu/teaching/algorithms/)
+- CMU 15-850: Advanced Algorithms, Spring 2023 - [Webpage](https://www.cs.cmu.edu/~15850/) and [Lectures](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2253c58248-7fd4-4f71-8774-af85013a570a%22&page=0&maxResults=50)
+- CMU 15-451/651: Algorithm Design and Analysis - [Webpage](https://www.cs.cmu.edu/~15451-s23/schedule.html)
+- MIT 6.5210/18.415: Advanced Algorithms - [Webapge](https://6.5210.csail.mit.edu/)
+- Advanced Algorithms, ETH Zurich, Fall 2023 - [Webpage](https://people.inf.ethz.ch/~aroeyskoe/AA23)
+- Thatchaphol Saranurak Courses:
+  - EECS 477 Introduction to Algorithms (Winter 2023) - [Webpage](https://sites.google.com/site/thsaranurak/teaching/intro-algo?authuser=0) and [Lectures](https://www.youtube.com/playlist?list=PLVw32sKsg0NuY9-DBVSbPHDa4yWma0BMo)
+  - Expanders and Fast Graph Algorithms - [Webpage](https://sites.google.com/site/thsaranurak/teaching/Expander?authuser=0) and [Lectures](https://www.youtube.com/playlist?list=PLVw32sKsg0Ntcr6mRvPhvY71_xSkFMHHg)
+- CSE373 -- Analysis of Algorithms (Fall 2021) by Steven Skiena - [Textbook](https://www3.cs.stonybrook.edu/~skiena/373/videos/) and [Lectures](https://www.youtube.com/playlist?list=PLOtl7M3yp-DXbHTFe_w9zFPXeau28CDao)
+
+### Functional Programming
+
+Some related math topics include category Theory and lambda Calculus. Popular functional programming languages: OCaml, Haskell and Scala.
+
+- The Dao of Functional Programming by Bartosz Milewski - [Draft (PDF)](https://github.com/BartoszMilewski/Publications/blob/master/TheDaoOfFP/DaoFP.pdf)
+- CS 3110 Data Structures and Functional Programming (OCaml) - [Webpage](https://cs3110.github.io/textbook/cover.html) and [Lectures](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
+- Functional Programming in Haskell - [Webpage](https://www.cs.nott.ac.uk/~pszgmh/pgp.html) and [Lectures](https://www.youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3)
+- Haskell for Imperative Programmers - [Lectures](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
+- The Haskell Unfolder - [Lectures](https://www.youtube.com/playlist?list=PLD8gywOEY4HaG5VSrKVnHxCptlJv2GAn7)
+
+### Distributed Systems
+
+
+### Database Systems
 
 - Database Systems Design, Implementation, and Management
 - Database Systems The Complete Book
@@ -154,10 +207,6 @@ Contributions are very welcome! Feel free to message me at <youbiidrissi.abdalla
 - [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/index.html)
 - [A Course in Cryptography by Rafael Pass and Abhi Shelat](https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf)
 - [A Graduate Course in Applied Cryptography Dan Boneh and Victor Shoup](https://toc.cryptobook.us/)
-
-### Computer Networking
-
-- [A collection of awesome networking courses, books, tutorials and other resources](https://github.com/facyber/awesome-networking)
 
 ### High Performance Computing
 
