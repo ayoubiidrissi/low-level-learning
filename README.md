@@ -190,6 +190,14 @@ Some related math topics include category Theory and lambda Calculus. Popular fu
 
 ### Distributed Systems
 
+- CSE138 (Distributed Systems) by Lindsey Kuper - [Lectures](https://www.youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx) and [Course Website](https://decomposition.al/CSE138-2021-03/)
+- Distributed Systems lecture series by Martin Kleppmann - [Lectures](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+- MIT 6.824: Distributed Systems - [Course Website](http://nil.lcs.mit.edu/6.824/2020/index.html)
+- CMU 15-749:  Engineering Distributed Systems - [Course Website](https://www.cs.cmu.edu/~15-749/org.html)
+- [A curated list to learn about distributed systems](https://github.com/theanalyst/awesome-distributed-systems)
+- [A Distributed Systems Reading List](https://ferd.ca/a-distributed-systems-reading-list.html)
+- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
+- Distributed Systems by Maarten van Steen - [Course Website](https://www.distributed-systems.net/index.php/books/ds4/)
 
 ### Database Systems
 
@@ -211,6 +219,7 @@ Some related math topics include category Theory and lambda Calculus. Popular fu
 ### High Performance Computing
 
 - [The art of HPC](https://theartofhpc.com/)
+- KAIST CS431: Concurrent Programming - [Lectures](https://www.youtube.com/playlist?list=PL5aMzERQ_OZ9j40DJNlsem2qAGoFbfwb4) and [Github repo](https://github.com/kaist-cp/cs431)
 
 ## Information Theory
 
