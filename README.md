@@ -63,6 +63,7 @@ Contributions are very welcome! Feel free to message me at <youbiidrissi.abdalla
 
 #### Advanced Topics: Formal Methods and Automated Reasoning
 
+- [The Software Foundations Series](https://softwarefoundations.cis.upenn.edu/) and [Lectures](https://www.youtube.com/playlist?list=PLre5AT9JnKShFK9l9HYzkZugkJSsXioFs)
 - Proof=Program - [Website](https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/) and [Lecture Notes](https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf)
 - [Formal-Methods-Courses](https://github.com/luigiapetre/Formal-Methods-Courses)
 - [Formal Methods of Software Design by Eric Hehner](https://www.cs.toronto.edu/~hehner/FMSD/) and [Textbook](https://www.cs.toronto.edu/~hehner/aPToP/)
@@ -161,12 +162,6 @@ Contributions are very welcome! Feel free to message me at <youbiidrissi.abdalla
 - [Curated list of awesome resources on Compilers, Interpreters and Runtimes](https://github.com/aalhour/awesome-compilers)
 - [Hibiku - An Educational Interpreter and Compiler in C](https://www.youtube.com/playlist?list=PLzaJkF8lpTDYGrfOK_rht0rYTXTUCWVG_)
 
-### Software Foundations
-
-- [The Software Foundations Series](https://softwarefoundations.cis.upenn.edu/)
-- [How to Design Programs](https://htdp.org/)
-- [The Fuzzing Book Tools and Techniques for Generating Software Tests](https://www.fuzzingbook.org/)
-
 ### Algorithms and Data Structures
 
 - Jeff Erickson Course: CS 473 Algorithms - [Webpage](https://courses.engr.illinois.edu/cs473/fa2022/), [Lectures](https://mediaspace.illinois.edu/channel/crissywakeup/265961502), [Lecture Notes](https://courses.engr.illinois.edu/cs473/fa2022/lectures.html) and [Textbook](https://jeffe.cs.illinois.edu/teaching/algorithms/)
@@ -182,6 +177,9 @@ Contributions are very welcome! Feel free to message me at <youbiidrissi.abdalla
 - [The Algorithms](https://the-algorithms.com/) 
 
 ### Programming Languages
+
+- [How to Design Programs](https://htdp.org/)
+- [The Fuzzing Book Tools and Techniques for Generating Software Tests](https://www.fuzzingbook.org/)
 
 #### Project-Based Learning
 
