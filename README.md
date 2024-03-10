@@ -107,6 +107,7 @@ Contributions are very welcome! Feel free to message me at <youbiidrissi.abdalla
 - [OS Dev Wiki](https://wiki.osdev.org)
 - [Awesome Operating System Stuff](https://github.com/jubalh/awesome-os)
 - [Writing an OS in Rust](https://os.phil-opp.com/)
+- [The Adventures of OS: Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com/index.html)
 
 ### Computer Systems Programming
 
