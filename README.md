@@ -166,7 +166,7 @@ Contributions are very welcome! Feel free to message me at <youbiidrissi.abdalla
 - [How to Design Programs](https://htdp.org/)
 - [The Fuzzing Book Tools and Techniques for Generating Software Tests](https://www.fuzzingbook.org/)
 
-### Design and Analysis of Algorithms
+### Algorithms and Data Structures
 
 - Jeff Erickson Course: CS 473 Algorithms - [Webpage](https://courses.engr.illinois.edu/cs473/fa2022/), [Lectures](https://mediaspace.illinois.edu/channel/crissywakeup/265961502), [Lecture Notes](https://courses.engr.illinois.edu/cs473/fa2022/lectures.html) and [Textbook](https://jeffe.cs.illinois.edu/teaching/algorithms/)
 - CMU 15-850: Advanced Algorithms, Spring 2023 - [Webpage](https://www.cs.cmu.edu/~15850/) and [Lectures](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2253c58248-7fd4-4f71-8774-af85013a570a%22&page=0&maxResults=50)
@@ -177,10 +177,20 @@ Contributions are very welcome! Feel free to message me at <youbiidrissi.abdalla
   - EECS 477 Introduction to Algorithms (Winter 2023) - [Webpage](https://sites.google.com/site/thsaranurak/teaching/intro-algo?authuser=0) and [Lectures](https://www.youtube.com/playlist?list=PLVw32sKsg0NuY9-DBVSbPHDa4yWma0BMo)
   - Expanders and Fast Graph Algorithms - [Webpage](https://sites.google.com/site/thsaranurak/teaching/Expander?authuser=0) and [Lectures](https://www.youtube.com/playlist?list=PLVw32sKsg0Ntcr6mRvPhvY71_xSkFMHHg)
 - CSE373 -- Analysis of Algorithms (Fall 2021) by Steven Skiena - [Textbook](https://www3.cs.stonybrook.edu/~skiena/373/videos/) and [Lectures](https://www.youtube.com/playlist?list=PLOtl7M3yp-DXbHTFe_w9zFPXeau28CDao)
+- [Takeuuforward](https://takeuforward.org/) 
+- [The Algorithms](https://the-algorithms.com/) 
 
-### Functional Programming
+### Programming Languages
 
-Some related math topics include category Theory and lambda Calculus. Popular functional programming languages: OCaml, Haskell and Scala.
+#### Project-Based Learning
+
+- [Curated list of project-based tutorials](https://github.com/practical-tutorials/project-based-learning)
+- [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html) and [More challenging projects every programmer should try](https://austinhenley.com/blog/morechallengingprojects.html)
+- [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
+
+#### Functional Programming
+
+Some related math topics include category theory and lambda Calculus. Popular functional programming languages encompass OCaml, Haskell and Scala.
 
 - The Dao of Functional Programming by Bartosz Milewski - [Draft (PDF)](https://github.com/BartoszMilewski/Publications/blob/master/TheDaoOfFP/DaoFP.pdf)
 - CS 3110 Data Structures and Functional Programming (OCaml) - [Webpage](https://cs3110.github.io/textbook/cover.html) and [Lectures](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
