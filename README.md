@@ -125,6 +125,7 @@ Contributions are very welcome! Feel free to message me at <youbiidrissi.abdalla
 - [Computer Networking: A Top-Down Approach](https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer%20Networking%20_%20A%20Top%20Down%20Approach,%207th,%20converted.pdf)
 - High Performance Browser Networking by Ilya Grigorik
 - [Beej's Guides](https://beej.us/guide/)
+- [Working with books by Jesse Storimer](https://workingwithruby.com/)
 - [A collection of awesome networking courses, books, tutorials and other resources](https://github.com/facyber/awesome-networking)
 
 #### Foundation of Computer Systems: Courses
@@ -159,6 +160,7 @@ Contributions are very welcome! Feel free to message me at <youbiidrissi.abdalla
 #### Compiler Design: Resources
 
 - [Resources for Amateur Compiler Writers](https://c9x.me/compile/bib/)
+- An Incremental Approach to Compiler Construction - [Paper](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
 - [Curated list of awesome resources on Compilers, Interpreters and Runtimes](https://github.com/aalhour/awesome-compilers)
 - [Hibiku - An Educational Interpreter and Compiler in C](https://www.youtube.com/playlist?list=PLzaJkF8lpTDYGrfOK_rht0rYTXTUCWVG_)
 
@@ -178,6 +180,7 @@ Contributions are very welcome! Feel free to message me at <youbiidrissi.abdalla
 
 ### Programming Languages
 
+- [Programming Languages Course by Dan Grossman](https://www.coursera.org/learn/programming-languages)
 - [How to Design Programs](https://htdp.org/)
 - [The Fuzzing Book Tools and Techniques for Generating Software Tests](https://www.fuzzingbook.org/)
 
@@ -201,7 +204,7 @@ Some related math topics include category theory and lambda Calculus. Popular fu
 
 - CSE138 (Distributed Systems) by Lindsey Kuper - [Lectures](https://www.youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx) and [Course Website](https://decomposition.al/CSE138-2021-03/)
 - Distributed Systems lecture series by Martin Kleppmann - [Lectures](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
-- MIT 6.824: Distributed Systems - [Course Website](http://nil.lcs.mit.edu/6.824/2020/index.html)
+- MIT 6.824: Distributed Systems - [Course Website](http://nil.lcs.mit.edu/6.824/2020/index.html) and [Lectures](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 - CMU 15-749:  Engineering Distributed Systems - [Course Website](https://www.cs.cmu.edu/~15-749/org.html)
 - [A curated list to learn about distributed systems](https://github.com/theanalyst/awesome-distributed-systems)
 - [A Distributed Systems Reading List](https://ferd.ca/a-distributed-systems-reading-list.html)
